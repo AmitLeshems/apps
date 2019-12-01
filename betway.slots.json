@@ -1,9 +1,9 @@
 {
   "app": {
     "title": "Betway Slots",
-    "imagePath": "https://raw.githubusercontent.com/AmitLeshems/apps/master/china-slot.jpg",
-    "linkPath": "",
-    "linkAction": "#start",
+    "imagePath": "https://raw.githubusercontent.com/AmitLeshems/apps/master/Betway.jpg",
+    "linkPath": "https://betway.com/?s=bw200712&b=a_2200",
+    "linkAction": "#web",
     "afid": "cjiNPHxjv5zB5HJ6wXafgZ"
   }
 }
